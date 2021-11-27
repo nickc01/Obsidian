@@ -405,6 +405,10 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFE0E2E4" />
       </Color>
+      <Color Name="HTML Attribute Name">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE0E2E4" />
+      </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEC7600" />

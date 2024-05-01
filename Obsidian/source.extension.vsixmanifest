@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Obsidian_Theme_2022.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1" Language="en-US" Publisher="Nickc01" />
+        <Identity Id="Obsidian_Theme_2022.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="2.0" Language="en-US" Publisher="Nickc01" />
         <DisplayName>Obsidian Theme 2022</DisplayName>
         <Description xml:space="preserve">An obsidian theme built for visual studio 2022. Based on the Obsidian theme from Notepad++</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=Nickc01.obsidianTheme2022</MoreInfo>
